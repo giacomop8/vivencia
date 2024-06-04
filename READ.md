@@ -1,0 +1,1 @@
+Web Site e Sistema web para publicações de notícias, delimitado por categorias, além de cadastro de usuários para login e comentários de usuários
